@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikaDemetrashvili
-- 👀 I’m interested in Data Engineering
+- 👀 I’m interested in Data Engineering and Analytics
 - 🌱 I’m currently learning in Business and Technology University
 - 📫 How to reach me https://www.linkedin.com/in/nika-demetrashvili-511b2b226/
 
